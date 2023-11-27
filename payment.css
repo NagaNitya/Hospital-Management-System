@@ -1,0 +1,79 @@
+body{
+    overflow-x: hidden;
+    margin:0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    display:flex;
+    margin-top: 50px;
+}
+
+#d0{
+    width:fit-content;
+    height:100%;
+    margin-left:200px;
+    margin-top: 0px;
+
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#d1{
+    display:flex;
+    margin-left: 20px;
+    height: 100%;
+    border-bottom: 2px solid black;
+}
+
+#s1{
+    width:250px;
+
+    display:block;
+}
+
+#s2{
+    width:300px;
+
+}
+
+#uname, #phno, #email, #date, #status, #doc, #amt, #time{
+    text-align: right;
+}
+
+#p1{
+    text-align: center;
+}
+
+#d3{
+    display: block;
+    margin-left: auto;
+    margin-right: 200px;
+}
+
+#qr{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:300px;
+    width:300px;
+    margin-top:0px;  
+    margin-bottom: 0px;  
+}
+
+#b1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:200px;
+    height:30px;
+    background-color: rgba(24, 236, 127, 0.837);
+    border:none;
+    font-size:20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+
